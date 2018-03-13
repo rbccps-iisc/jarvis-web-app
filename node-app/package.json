@@ -1,0 +1,25 @@
+{
+  "name": "vas-rbccps",
+  "version": "0.0.1",
+  "description": "This is a node app that would help in creating voice activated system using web-speech-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Jishnu",
+    "Jaykumar",
+    "P",
+    "Kedar",
+    "N",
+    "DeshPande",
+    "Vasanth",
+    "Rajaraman",
+    "VAS",
+    "RBCCPS",
+    "IISc",
+    "Bangalore"
+  ],
+  "author": "Jishnu Jaykumar P",
+  "license": "ISC"
+}
