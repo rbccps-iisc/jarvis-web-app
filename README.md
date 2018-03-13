@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web-speech-api
 A repository for demos illustrating features of the Web Speech API. See [Web_Speech_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) for more details.
 
@@ -21,3 +22,7 @@ This current works only on Chrome/Chrome Mobile. To get this code running succes
 Type words in the input then submit the form to hear it spoken. You can also select the different voices available on the system, and alter the rate and pitch.
 
 This currently works in Chrome and Firefox.
+=======
+# jarvis
+This repo hosts the code for Jarvis - The Voice Activated System of RBCCPS, IISc Bangalore.
+>>>>>>> 2e98309d841620769acc6f2b9b5ef648bced5b2a
